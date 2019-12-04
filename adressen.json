@@ -1,0 +1,43 @@
+{"name": "Hans de Boer",
+ "email": "hdb@example.com",
+ "tel": "06-1290 8746"
+}
+{"name": "Anna Verschuur",
+ "email": "anna@hotmail.com",
+ "address": {"street": "Noorderkade 102",
+             "city": "Amsterdam",
+             "postcode": "1000 AA"
+            }
+}
+{"name": "F.G. Schuitema",
+ "address": {"street": "Eikenlaan 23",
+             "city": "Amsterdam",
+             "postcode": "1001 AB"
+            }
+}
+{"name": "Adrie Vierhuis",
+ "email": "a34huis@gmail.com",
+ "address": {"street": "Beukenweg 12",
+             "city": "Rotterdam",
+             "postcode": "2001 BC"
+            },
+  "tel": "010-123 123 9"
+}
+{"name": "Joop de Zwart",
+ "email": "zwartejoop@ziggo.nl",
+ "address": {"street": "Rozengracht 42",
+             "city": "Rotterdam"}
+}
+{"name": "Gijs Bennekom",
+ "email": "gijsbkom@ziggo.nl",
+ "address": {"street": "Lijsterlaan 132",
+             "city": "Rotterdam"}
+}
+{"name": "Leontien de Bruin ",
+ "email":
+ ["lhmdebruin@hotmail.com",
+  "leontien134@tiscalimail.nl"
+ ],
+ "address": {"street": "Tulpstraat 17",
+             "city": "Amsterdam"}
+}
