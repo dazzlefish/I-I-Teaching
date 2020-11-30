@@ -4,6 +4,6 @@ pymongo
 matplotlib
 ipywidgets==7.5.1
 ipycanvas
-Tkinter
+tkinter
 ipympl
 swampy
